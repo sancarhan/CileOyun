@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\bin\Debug\net6.0\Tas-Kagıt-Makas.exe
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\bin\Debug\net6.0\Tas-Kagıt-Makas.deps.json
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\bin\Debug\net6.0\Tas-Kagıt-Makas.runtimeconfig.json
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\bin\Debug\net6.0\Tas-Kagıt-Makas.dll
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\bin\Debug\net6.0\Tas-Kagıt-Makas.pdb
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\obj\Debug\net6.0\Tas-Kagıt-Makas.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\obj\Debug\net6.0\Tas-Kagıt-Makas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\obj\Debug\net6.0\Tas-Kagıt-Makas.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\obj\Debug\net6.0\Tas-Kagıt-Makas.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\obj\Debug\net6.0\Tas-Kagıt-Makas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\obj\Debug\net6.0\Tas-Kagıt-Makas.dll
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\obj\Debug\net6.0\refint\Tas-Kagıt-Makas.dll
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\obj\Debug\net6.0\Tas-Kagıt-Makas.pdb
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\obj\Debug\net6.0\Tas-Kagıt-Makas.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Tas-Kagıt-Makas\obj\Debug\net6.0\ref\Tas-Kagıt-Makas.dll
